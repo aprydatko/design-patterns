@@ -8,19 +8,26 @@ export type CounterModule = Readonly<{
  * Module Pattern keeps mutable state private and exposes only a deliberate API.
  */
 export const createCounterModule = (initialValue = 0): CounterModule => {
-  let value = initialValue;
+  // private state
+  let value: number = initialValue;
 
-  const increment = (): number => {
-    value += 1;
-    return value;
+  // private function
+  const log = (): void => {
+    console.log('Value:', value);
   };
 
-  const decrement = (): number => {
-    value -= 1;
-    return value;
+  // Public API
+  return {
+    increment: (): number => {
+      value += 1;
+      log();
+      return value;
+    },
+    decrement: (): number => {
+      value -= 1;
+      log();
+      return value;
+    },
+    getValue: (): number => value,
   };
-
-  const getValue = (): number => value;
-
-  return { increment, decrement, getValue };
 };
