@@ -14,7 +14,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Decorator
 - [x] Proxy
 - [x] Command
-- [ ] Iterator
+- [x] Iterator
 - [ ] Template Method
 - [ ] Dependency Injection
 
