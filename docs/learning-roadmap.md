@@ -9,7 +9,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Singleton
 - [x] Observer / Pub-Sub
 - [x] Strategy
-- [ ] Adapter
+- [x] Adapter
 - [ ] Facade
 - [ ] Decorator
 - [ ] Proxy
