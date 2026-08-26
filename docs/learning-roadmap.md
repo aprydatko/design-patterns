@@ -10,7 +10,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Observer / Pub-Sub
 - [x] Strategy
 - [x] Adapter
-- [ ] Facade
+- [x] Facade
 - [ ] Decorator
 - [ ] Proxy
 - [ ] Command
