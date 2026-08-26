@@ -5,7 +5,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 ## Core patterns
 
 - [x] Module
-- [ ] Factory
+- [x] Factory
 - [ ] Singleton
 - [ ] Observer / Pub-Sub
 - [ ] Strategy
