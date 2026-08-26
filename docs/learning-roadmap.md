@@ -8,7 +8,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Factory
 - [x] Singleton
 - [x] Observer / Pub-Sub
-- [ ] Strategy
+- [x] Strategy
 - [ ] Adapter
 - [ ] Facade
 - [ ] Decorator
