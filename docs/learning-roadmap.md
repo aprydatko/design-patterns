@@ -16,7 +16,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Command
 - [x] Iterator
 - [x] Template Method
-- [ ] Dependency Injection
+- [x] Dependency Injection
 
 ## JavaScript / functional patterns
 
