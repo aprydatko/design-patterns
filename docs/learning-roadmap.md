@@ -11,7 +11,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Strategy
 - [x] Adapter
 - [x] Facade
-- [ ] Decorator
+- [x] Decorator
 - [ ] Proxy
 - [ ] Command
 - [ ] Iterator
