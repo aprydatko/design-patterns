@@ -12,7 +12,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Adapter
 - [x] Facade
 - [x] Decorator
-- [ ] Proxy
+- [x] Proxy
 - [ ] Command
 - [ ] Iterator
 - [ ] Template Method
