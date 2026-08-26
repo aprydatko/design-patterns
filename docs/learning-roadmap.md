@@ -13,7 +13,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Facade
 - [x] Decorator
 - [x] Proxy
-- [ ] Command
+- [x] Command
 - [ ] Iterator
 - [ ] Template Method
 - [ ] Dependency Injection
