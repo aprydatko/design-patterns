@@ -26,7 +26,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Partial Application
 - [x] Function Composition
 - [x] Memoization
-- [ ] Lazy Initialization
+- [x] Lazy Initialization
 - [ ] Debounce
 - [ ] Throttle
 - [ ] Retry with Backoff
