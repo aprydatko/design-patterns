@@ -29,7 +29,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Lazy Initialization
 - [x] Debounce
 - [x] Throttle
-- [ ] Retry with Backoff
+- [x] Retry with Backoff
 
 ## Structural and architectural patterns
 
