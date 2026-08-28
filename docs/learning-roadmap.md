@@ -24,7 +24,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Closure for Encapsulation
 - [x] Currying
 - [x] Partial Application
-- [ ] Function Composition
+- [x] Function Composition
 - [ ] Memoization
 - [ ] Lazy Initialization
 - [ ] Debounce
