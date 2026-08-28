@@ -23,7 +23,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Higher-Order Function
 - [x] Closure for Encapsulation
 - [x] Currying
-- [ ] Partial Application
+- [x] Partial Application
 - [ ] Function Composition
 - [ ] Memoization
 - [ ] Lazy Initialization
