@@ -25,7 +25,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Currying
 - [x] Partial Application
 - [x] Function Composition
-- [ ] Memoization
+- [x] Memoization
 - [ ] Lazy Initialization
 - [ ] Debounce
 - [ ] Throttle
