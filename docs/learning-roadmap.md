@@ -21,7 +21,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 ## JavaScript / functional patterns
 
 - [x] Higher-Order Function
-- [ ] Closure for Encapsulation
+- [x] Closure for Encapsulation
 - [ ] Currying
 - [ ] Partial Application
 - [ ] Function Composition
