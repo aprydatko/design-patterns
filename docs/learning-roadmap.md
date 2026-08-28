@@ -20,7 +20,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 ## JavaScript / functional patterns
 
-- [ ] Higher-Order Function
+- [x] Higher-Order Function
 - [ ] Closure for Encapsulation
 - [ ] Currying
 - [ ] Partial Application
