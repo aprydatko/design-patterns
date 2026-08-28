@@ -27,8 +27,8 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Function Composition
 - [x] Memoization
 - [x] Lazy Initialization
-- [ ] Debounce
-- [ ] Throttle
+- [x] Debounce
+- [x] Throttle
 - [ ] Retry with Backoff
 
 ## Structural and architectural patterns
