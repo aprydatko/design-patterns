@@ -33,7 +33,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 ## Structural and architectural patterns
 
-- [ ] Repository
+- [x] Repository
 - [ ] Service Layer
 - [ ] DTO
 - [ ] Mapper
