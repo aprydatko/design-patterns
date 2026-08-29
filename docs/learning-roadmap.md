@@ -35,7 +35,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 - [x] Repository
 - [x] Service Layer
-- [ ] DTO
+- [x] DTO
 - [ ] Mapper
 - [ ] MVC
 - [ ] MVVM
