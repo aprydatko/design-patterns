@@ -39,7 +39,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Mapper
 - [x] MVC
 - [x] MVVM
-- [ ] Flux / Unidirectional Data Flow
+- [x] Flux / Unidirectional Data Flow
 - [ ] Layered Architecture
 - [ ] Hexagonal / Ports and Adapters
 - [ ] CQRS
