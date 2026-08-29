@@ -41,7 +41,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] MVVM
 - [x] Flux / Unidirectional Data Flow
 - [x] Layered Architecture
-- [ ] Hexagonal / Ports and Adapters
+- [x] Hexagonal / Ports and Adapters
 - [ ] CQRS
 
 ## React / frontend patterns
