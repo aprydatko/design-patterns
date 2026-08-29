@@ -42,7 +42,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Flux / Unidirectional Data Flow
 - [x] Layered Architecture
 - [x] Hexagonal / Ports and Adapters
-- [ ] CQRS
+- [x] CQRS
 
 ## React / frontend patterns
 
