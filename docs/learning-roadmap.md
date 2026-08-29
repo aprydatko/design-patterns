@@ -34,7 +34,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 ## Structural and architectural patterns
 
 - [x] Repository
-- [ ] Service Layer
+- [x] Service Layer
 - [ ] DTO
 - [ ] Mapper
 - [ ] MVC
