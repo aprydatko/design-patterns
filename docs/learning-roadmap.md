@@ -38,7 +38,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] DTO
 - [x] Mapper
 - [x] MVC
-- [ ] MVVM
+- [x] MVVM
 - [ ] Flux / Unidirectional Data Flow
 - [ ] Layered Architecture
 - [ ] Hexagonal / Ports and Adapters
