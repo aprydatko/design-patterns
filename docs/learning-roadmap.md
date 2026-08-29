@@ -37,7 +37,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Service Layer
 - [x] DTO
 - [x] Mapper
-- [ ] MVC
+- [x] MVC
 - [ ] MVVM
 - [ ] Flux / Unidirectional Data Flow
 - [ ] Layered Architecture
