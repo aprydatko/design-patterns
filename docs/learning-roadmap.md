@@ -36,7 +36,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Repository
 - [x] Service Layer
 - [x] DTO
-- [ ] Mapper
+- [x] Mapper
 - [ ] MVC
 - [ ] MVVM
 - [ ] Flux / Unidirectional Data Flow
