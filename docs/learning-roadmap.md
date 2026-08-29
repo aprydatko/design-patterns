@@ -40,7 +40,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] MVC
 - [x] MVVM
 - [x] Flux / Unidirectional Data Flow
-- [ ] Layered Architecture
+- [x] Layered Architecture
 - [ ] Hexagonal / Ports and Adapters
 - [ ] CQRS
 
