@@ -56,7 +56,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] State Reducer
 - [x] Headless Component
 - [x] Optimistic UI
-- [ ] Skeleton / Progressive Loading
+- [x] Skeleton / Progressive Loading
 - [ ] Error Boundary
 
 ## Backend and distributed-system patterns
