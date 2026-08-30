@@ -52,7 +52,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Render Props
 - [x] Higher-Order Component
 - [x] Custom Hooks
-- [ ] Provider
+- [x] Provider
 - [ ] State Reducer
 - [ ] Headless Component
 - [ ] Optimistic UI
