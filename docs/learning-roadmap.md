@@ -46,7 +46,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 ## React / frontend patterns
 
-- [ ] Container / Presentational
+- [x] Container / Presentational
 - [ ] Controlled Components
 - [ ] Compound Components
 - [ ] Render Props
