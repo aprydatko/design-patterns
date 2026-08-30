@@ -48,7 +48,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 - [x] Container / Presentational
 - [x] Controlled Components
-- [ ] Compound Components
+- [x] Compound Components
 - [ ] Render Props
 - [ ] Higher-Order Component
 - [ ] Custom Hooks
