@@ -53,7 +53,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Higher-Order Component
 - [x] Custom Hooks
 - [x] Provider
-- [ ] State Reducer
+- [x] State Reducer
 - [ ] Headless Component
 - [ ] Optimistic UI
 - [ ] Skeleton / Progressive Loading
