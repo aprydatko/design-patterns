@@ -54,7 +54,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Custom Hooks
 - [x] Provider
 - [x] State Reducer
-- [ ] Headless Component
+- [x] Headless Component
 - [ ] Optimistic UI
 - [ ] Skeleton / Progressive Loading
 - [ ] Error Boundary
