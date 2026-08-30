@@ -51,7 +51,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Compound Components
 - [x] Render Props
 - [x] Higher-Order Component
-- [ ] Custom Hooks
+- [x] Custom Hooks
 - [ ] Provider
 - [ ] State Reducer
 - [ ] Headless Component
