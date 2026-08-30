@@ -57,7 +57,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Headless Component
 - [x] Optimistic UI
 - [x] Skeleton / Progressive Loading
-- [ ] Error Boundary
+- [x] Error Boundary
 
 ## Backend and distributed-system patterns
 
