@@ -50,7 +50,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Controlled Components
 - [x] Compound Components
 - [x] Render Props
-- [ ] Higher-Order Component
+- [x] Higher-Order Component
 - [ ] Custom Hooks
 - [ ] Provider
 - [ ] State Reducer
