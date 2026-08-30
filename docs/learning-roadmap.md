@@ -55,7 +55,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Provider
 - [x] State Reducer
 - [x] Headless Component
-- [ ] Optimistic UI
+- [x] Optimistic UI
 - [ ] Skeleton / Progressive Loading
 - [ ] Error Boundary
 
