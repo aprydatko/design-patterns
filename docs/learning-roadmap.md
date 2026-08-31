@@ -69,7 +69,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Write-Through / Write-Behind Cache
 - [x] Idempotency
 - [x] Saga
-- [ ] Outbox
+- [x] Outbox
 - [ ] Producer / Consumer
 
 ## Classical GoF patterns
