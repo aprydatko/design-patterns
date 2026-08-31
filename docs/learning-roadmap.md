@@ -67,7 +67,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Bulkhead
 - [x] Cache-Aside
 - [x] Write-Through / Write-Behind Cache
-- [ ] Idempotency
+- [x] Idempotency
 - [ ] Saga
 - [ ] Outbox
 - [ ] Producer / Consumer
