@@ -62,7 +62,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 ## Backend and distributed-system patterns
 
 - [x] Middleware
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Circuit Breaker
 - [ ] Bulkhead
 - [ ] Cache-Aside
