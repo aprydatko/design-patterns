@@ -70,7 +70,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Idempotency
 - [x] Saga
 - [x] Outbox
-- [ ] Producer / Consumer
+- [x] Producer / Consumer
 
 ## Classical GoF patterns
 
