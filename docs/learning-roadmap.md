@@ -68,7 +68,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Cache-Aside
 - [x] Write-Through / Write-Behind Cache
 - [x] Idempotency
-- [ ] Saga
+- [x] Saga
 - [ ] Outbox
 - [ ] Producer / Consumer
 
