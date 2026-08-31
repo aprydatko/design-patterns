@@ -66,7 +66,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Circuit Breaker
 - [x] Bulkhead
 - [x] Cache-Aside
-- [ ] Write-Through / Write-Behind Cache
+- [x] Write-Through / Write-Behind Cache
 - [ ] Idempotency
 - [ ] Saga
 - [ ] Outbox
