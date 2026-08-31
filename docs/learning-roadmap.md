@@ -65,7 +65,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Chain of Responsibility
 - [x] Circuit Breaker
 - [x] Bulkhead
-- [ ] Cache-Aside
+- [x] Cache-Aside
 - [ ] Write-Through / Write-Behind Cache
 - [ ] Idempotency
 - [ ] Saga
