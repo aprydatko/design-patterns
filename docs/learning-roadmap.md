@@ -79,7 +79,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Prototype
 - [x] Bridge
 - [x] Composite
-- [ ] Flyweight
+- [x] Flyweight
 - [ ] Mediator
 - [ ] Memento
 - [ ] State
