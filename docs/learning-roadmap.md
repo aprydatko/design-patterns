@@ -77,7 +77,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Abstract Factory
 - [x] Builder
 - [x] Prototype
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Flyweight
 - [ ] Mediator
