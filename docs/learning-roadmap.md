@@ -83,4 +83,4 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Mediator
 - [x] Memento
 - [x] State
-- [ ] Visitor
+- [x] Visitor
