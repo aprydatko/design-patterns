@@ -74,7 +74,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 
 ## Classical GoF patterns
 
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
 - [ ] Bridge
