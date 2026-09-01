@@ -81,6 +81,6 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Composite
 - [x] Flyweight
 - [x] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] State
 - [ ] Visitor
