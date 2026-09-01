@@ -75,8 +75,8 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 ## Classical GoF patterns
 
 - [x] Abstract Factory
-- [ ] Builder
-- [ ] Prototype
+- [x] Builder
+- [x] Prototype
 - [ ] Bridge
 - [ ] Composite
 - [ ] Flyweight
