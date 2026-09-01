@@ -80,7 +80,7 @@ Check a pattern off after you can explain it, name a use case, describe a trade-
 - [x] Bridge
 - [x] Composite
 - [x] Flyweight
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] State
 - [ ] Visitor
